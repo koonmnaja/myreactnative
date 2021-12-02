@@ -1,5 +1,5 @@
-import { StatusBar } from 'expo-status-bar';
-import React from 'react';
+
+
 import { StyleSheet, Text, View } from 'react-native';
 import { StatusBar } from "expo-status-bar";
 import React from "react";
@@ -20,13 +20,9 @@ import Ex12 from "./screens/week2/Ex12";
 
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Wuttipat seenual Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-  return( <Ex9 />
+ 
+  return(
+     <Ex12/>
     );
 }
 
