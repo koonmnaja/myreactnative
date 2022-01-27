@@ -7,7 +7,7 @@ import Ex3 from "./screens/week2/Ex3";
 import Ex2 from "./screens/week2/Ex2";
 
 import Welcome from "./screens/Welcome";
-import Ex1 from "./screens/week2/Ex1";
+import Ex1 from "./screens/week2/Challeng/Ex1";
 import Ex4 from "./screens/week2/Ex4";
 import Ex5 from "./screens/week2/Ex5";
 import Ex6 from "./screens/week2/Ex6";
